@@ -21,3 +21,5 @@ echo "Number of Words = $word"
 echo "Number of Characters = $char"
 echo "Number of White Spaces = $space"
 echo "Number of Special symbols = $special"
+
+
